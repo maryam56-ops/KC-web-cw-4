@@ -21,6 +21,7 @@ h1
     border-radius: 50%;
     opacity: 0.5;
     transition: all 0.5s;
+    box-shadow:2px 1px 5px black ;
 
 }
 .circle:hover
